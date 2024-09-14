@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://arovsa.github.io/Lod/sitemap.Lod.gz
